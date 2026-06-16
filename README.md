@@ -39,8 +39,8 @@ outfit-recommender/
 
 | 서비스 | 주소 |
 |--------|------|
-| Streamlit (프론트) | http://54.242.224.187:8501 |
-| FastAPI Docs | http://54.242.224.187:8000/docs |
+| Streamlit (프론트) | http://98.88.253.113:8501 |
+| FastAPI Docs | http://98.88.253.113:8000/docs |
 
 ---
 
