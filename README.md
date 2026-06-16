@@ -35,6 +35,15 @@ outfit-recommender/
 | 컨테이너 | Docker, Docker Compose |
 | 배포 | AWS EC2 |
 
+## 🌐 배포 주소 (AWS EC2)
+
+| 서비스 | 주소 |
+|--------|------|
+| Streamlit (프론트) | http://54.242.224.187:8501 |
+| FastAPI Docs | http://54.242.224.187:8000/docs |
+
+---
+
 ## 🚀 실행 방법
 
 ### 1. 환경변수 설정
